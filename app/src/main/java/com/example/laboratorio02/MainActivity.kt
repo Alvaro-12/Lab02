@@ -44,6 +44,8 @@ class MainActivity : AppCompatActivity() {
         var adaptador:ArrayAdapter<String> = ArrayAdapter <String>(this,R.layout.files)
         MOSTRAR?.adapter=adaptador
 
+        
+
         }
 
 
